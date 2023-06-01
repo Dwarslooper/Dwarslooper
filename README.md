@@ -12,7 +12,7 @@ Im Dwarslooper, currently 14 years old from Cologne in Germany. Im a hobby progr
  - [**StillMC**](https://github.com/Dwarslooper/STILL_MC-Ressources) - Minecraft Datapack that adds various vehicles to the game
  - [**Defend Luetzerath**](https://github.com/Dwarslooper/Defend-Luetzerath) - A Minecraft minigame i made in a week or so
  - [**USuck Virus**](https://github.com/Dwarslooper/usuck-Virus-V2/) - Annoying computer virus (cuz why not)
- - [**EimaconDE**](https://github.com/EimaconDE) - Some very funny people around here -w-
+ - [**Dwarslooper Team**](https://github.com/Dwarslooper-Team) - Our Team's GitHub Page
 
 ### 🔧 Tools
 <div>
