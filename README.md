@@ -27,7 +27,7 @@ Im Dwarslooper, currently 14 years old from Cologne in Germany. Im a hobby progr
 </div>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=midoriinc&show_icons=true" alt="midoriinc" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dwarslooper&show_icons=true" alt="dwarslooper" /> 
 
 </p>
 
