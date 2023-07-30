@@ -31,7 +31,7 @@ Im Dwarslooper, currently 14 years old from Cologne in Germany. Im a hobby progr
   <img src="https://github-readme-stats.vercel.app/api?username=dwarslooper&show_icons=true" alt="dwarslooper" /> 
 </p>
 -->
-![Metrics](https://metrics.lecoq.io/Dwarslooper?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FBerlin)
+<img src="https://metrics.lecoq.io/Dwarslooper?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FBerlin" alt="Metrics">
 
 <!--
 **Dwarslooper/Dwarslooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
