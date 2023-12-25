@@ -22,6 +22,7 @@ Im Dwarslooper, currently 15 years old from Cologne in Germany. Im a hobby progr
   <img height="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+  <img height="40" src="https://www.svgrepo.com/show/373288/maven.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 <br><br>
