@@ -1,8 +1,8 @@
-### Hi there 👋
+### Moin!
 
-Welcome to my GitHub Profile .-.
+Welcome to my GitHub Profile :)
 
-Im Dwarslooper, currently 15 years old from Cologne in Germany. Im a hobby programmer with an interest in IT Security and i like playing Minecraft and developing Minecraft Mods, Plugins and Datapacks.
+I'm Dwarslooper, currently 15 years old from Cologne in Germany. Im a hobby programmer with an interest in IT Security and i like playing Minecraft and developing Minecraft Mods, Plugins and Datapacks.
 
 <div align="center">
     <a href="https://dwarslooper.com/discord"><img src="https://img.shields.io/discord/687682739297845269?logo=discord&style=for-the-badge" alt="Discord"/></a>
@@ -13,6 +13,12 @@ Im Dwarslooper, currently 15 years old from Cologne in Germany. Im a hobby progr
  - [**Defend Luetzerath**](https://github.com/Dwarslooper/Defend-Luetzerath) - A Minecraft minigame i made in a week or so
  - [**USuck Virus**](https://github.com/Dwarslooper/usuck-Virus-V2/) - Annoying computer virus (cuz why not)
  - [**Dwarslooper Team**](https://github.com/Dwarslooper-Team) - Our Team's GitHub Page
+
+### <img src="https://cactusmod.xyz/media/cactus.png" height=17> CactusMod
+Check out this neat mod which [Limo](https://github.com/LimoDerEchte) and I made!
+<br>
+<img src="https://cdn.jonasjones.dev/mod-badges/available-modrinth.png" height=60 alt="Modrinth">
+<img src="https://cdn2.unrealengine.com/egs-curseforge-overwolf-ic1-400x400-efe6f7172cef.png?h=270&quality=medium&resize=1&w=480" height=60 alt="Curseforge">
 
 ### 🔧 Tools
 <div>
