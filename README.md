@@ -17,7 +17,7 @@ I'm Dwarslooper, currently 15 years old from Cologne in Germany. Im a hobby prog
 ### <img src="https://cactusmod.xyz/media/cactus.png" height=17> CactusMod
 Check out this neat mod which [Limo](https://github.com/LimoDerEchte) and I made!
 <br>
-<a href="https://modrinth.com/mod/cactus" target="_blank"><img src="https://cdn.jonasjones.dev/mod-badges/available-modrinth.png" height=60 alt="Modrinth"></a>
+<a href="https://modrinth.com/mod/cactus" target="_blank"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Favailable%2Fmodrinth_vector.svg" height=60 alt="Modrinth"></a>
 <a href="https://www.curseforge.com/minecraft/mc-mods/cactus-mod" target="_blank"><img src="https://cdn2.unrealengine.com/egs-curseforge-overwolf-ic1-400x400-efe6f7172cef.png?h=270&quality=medium&resize=1&w=480" height=60 alt="Curseforge"></a>
 
 ### 🔧 Tools
