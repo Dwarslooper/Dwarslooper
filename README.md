@@ -14,7 +14,7 @@ I'm Dwarslooper, currently 15 years old from Cologne in Germany. I'm a hobby pro
  - [**USuck Virus**](https://github.com/Dwarslooper/usuck-Virus-V2/) - Annoying computer virus (cuz why not)
  - [**Dwarslooper Team**](https://github.com/Dwarslooper-Team) - Our Team's GitHub Page
 
-### <img src="https://cactusmod.xyz/media/cactus.png" height=17> CactusMod
+### <img src="https://cactusmod.xyz/static/icon.webp" height=17> CactusMod
 Check out this neat mod which [Limo](https://github.com/LimoDerEchte) and I made!
 <br>
 <a href="https://modrinth.com/mod/cactus" target="_blank"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%403%2Fassets%2Fcozy%2Favailable%2Fmodrinth_vector.svg" height=60 alt="Modrinth"></a>
