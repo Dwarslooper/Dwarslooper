@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile :)
 
-I'm Dwarslooper, currently 15 years old from Cologne in Germany. I'm a hobby programmer with a focus on Minecraft development like mods, plugins and datapacks with an interest in IT Security.
+I'm Dwarslooper, currently 16 years old from Cologne in Germany. I'm a hobby programmer with a focus on Minecraft development like mods, plugins and datapacks with an interest in IT Security.
 
 <div align="center">
     <a href="https://dwarslooper.com/?re=discord"><img src="https://img.shields.io/discord/687682739297845269?logo=discord&style=for-the-badge" alt="Discord"/></a>
