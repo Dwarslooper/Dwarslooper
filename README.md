@@ -4,20 +4,16 @@ Welcome to my GitHub Profile :)
 
 I'm Dwarslooper, currently 16 years old from Cologne in Germany. I'm a hobby programmer with a focus on Minecraft development like mods, plugins and datapacks with an interest in IT Security.
 
-<div align="center">
-    <a href="https://dwarslooper.com/?re=discord"><img src="https://img.shields.io/discord/687682739297845269?logo=discord&style=for-the-badge" alt="Discord"/></a>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dwarslooper&fire=EB9779&ring=B4B4B4A5&currStreakNum=B4EBA3&background=00000000&border=00000000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=83D67C" alt="GitHub Streak" />
 
-### <img src="https://cactusmod.xyz/static/icon.webp" height=17> CactusMod
-Check out this neat mod which [Limo](https://github.com/LimoDerEchte) and I made!
-<br>
+<img src="https://cactusmod.xyz/static/icon.webp" height=42>
+<h2>CactusMod</h2>
+
+Check out this little mod which I'm working on! (share any feedback / suggestions!)
+
 <a href="https://modrinth.com/mod/cactus" target="_blank"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/modrinth_vector.svg" height=60 alt="Modrinth"></a>
 
-### 🚧 Projects
- - [**StillMC**](https://github.com/Dwarslooper/STILL_MC-Ressources) - Minecraft Datapack that adds various vehicles to the game
- - [**Defend Luetzerath**](https://github.com/Dwarslooper/Defend-Luetzerath) - A Minecraft minigame i made in a week or so
- - [**USuck Virus**](https://github.com/Dwarslooper/usuck-Virus-V2/) - Annoying computer virus (cuz why not)
- - [**Dwarslooper Team**](https://github.com/Dwarslooper-Team) - Our Team's GitHub Page
+<h2>Stuff I use</h2>
 
 ### ☕️Languages
 
@@ -50,28 +46,17 @@ Check out this neat mod which [Limo](https://github.com/LimoDerEchte) and I made
 
 ### 📘Libraries
 
-![jss](https://img.shields.io/badge/jss-F7DF1E.svg?style=for-the-badge&logo=jss&logoColor=black)
 ![mui](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
-![p5dotjs](https://img.shields.io/badge/p5.js-ED225D.svg?style=for-the-badge&logo=p5dotjs&logoColor=white)
 ![threedotjs](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🐙Others
 
-![Android](https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwarslooper&show_icons=true" alt="dwarslooper" /> 
-</p>
--->
-<img src="https://metrics.lecoq.io/Dwarslooper?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FBerlin" alt="Metrics">
 
 <!--
 **Dwarslooper/Dwarslooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
