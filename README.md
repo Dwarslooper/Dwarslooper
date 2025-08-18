@@ -5,15 +5,14 @@ Welcome to my GitHub Profile :)
 I'm Dwarslooper, currently 16 years old from Cologne in Germany. I'm a hobby programmer with a focus on Minecraft development like mods, plugins and datapacks with an interest in IT Security.
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dwarslooper&fire=EB9779&ring=B4B4B4A5&currStreakNum=B4EBA3&background=00000000&border=00000000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=83D67C" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dwarslooper&fire=EB9779&ring=B4B4B4A5&currStreakNum=B4EBA3&background=00000000&border=00000000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=83D67C&v=0" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarslooper&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&border_radius=10&langs_count=8" />
 </div>
 
 <h1><img src="https://cactusmod.xyz/static/header.webp" height=42></h1>
 
 Check out this little mod which I'm working on! (share any feedback / suggestions!)
-
-Overview: [cactusmod.xyz](https://cactusmod.xyz)
+[cactusmod.xyz](https://cactusmod.xyz)
 
 <a href="https://modrinth.com/mod/cactus" target="_blank"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/available/modrinth_vector.svg" height=60 alt="Modrinth"></a>
 
