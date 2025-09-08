@@ -47,18 +47,11 @@ Check out this little mod which I'm working on! (share any feedback / suggestion
 ![mariadb](https://img.shields.io/badge/mariadb-4444c9.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📘Libraries
-
-![mui](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
-![threedotjs](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ### 🐙Others
 
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
