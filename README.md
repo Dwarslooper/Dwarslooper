@@ -6,7 +6,7 @@ I'm Dwarslooper, currently 17 years old from Cologne in Germany. I'm a hobby pro
 
 ## My Stats
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dwarslooper&fire=EB9779&ring=B4B4B4A5&currStreakNum=CFEBA3&background=00000000&border=00000000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=83D67C" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dwarslooper&fire=EB9779&ring=B4B4B4A5&currStreakNum=CFEBA3&background=00000000&border=00000000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=83D67C" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarslooper&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&border_radius=10&langs_count=8" />
 </div>
 
